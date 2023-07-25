@@ -1,2 +1,2 @@
-# Resume-Template
-My online resume template
+# Resume
+My online resume
